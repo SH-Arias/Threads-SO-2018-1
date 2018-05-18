@@ -11,3 +11,5 @@ Repositorio de la tarea sobre threads, sistemas operativos 2018-1.
 
 -- riemann_scheme.c : archivo para el punto de completar la implementación de la suma de riemann
 - gcc -pthread riemann_scheme.c -o riemann_scheme -lm
+
+-- threadprime.c : archivo para observar la relación entre tiempo de ejecución del programa y número de hilos
