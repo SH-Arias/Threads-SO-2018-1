@@ -6,8 +6,8 @@ Repositorio de la tarea sobre threads, sistemas operativos 2018-1.
 - Alejandro Palacios Hurtado - 1630531
 
 # Archivos:
-- holan.c : archivo para el punto de crear hilos que imprimen hola
-gcc -pthread holan.c -o holan
+-- holan.c : archivo para el punto de crear hilos que imprimen hola
+- gcc -pthread holan.c -o holan
 
-- riemann_scheme.c : archivo para el punto de completar la implementación de la suma de riemann
-gcc -pthread riemann_scheme.c -o riemann_scheme -lm
+-- riemann_scheme.c : archivo para el punto de completar la implementación de la suma de riemann
+- gcc -pthread riemann_scheme.c -o riemann_scheme -lm
